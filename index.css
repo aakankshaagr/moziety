@@ -73,7 +73,11 @@ font-size:40px;
     color: purple;
 }
 .part{
-    width:200px;
+    width:250px;
+}
+.vec{
+    position:fixed;
+    left:300px;
 }
 .part h3{
     color: rgb(235, 29, 139);
