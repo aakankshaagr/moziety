@@ -1,0 +1,113 @@
+.signup{
+    background: purple;
+    color:white;
+}
+p{
+    padding-left:60px; 
+}
+.login{
+    border:1px solid purple;
+}
+button{
+margin-left: 10px;}
+a{
+    color:black;
+}
+.active{
+    text-decoration: 4px underline;
+    
+    color: purple;
+}
+.logo{
+    position: fixed;
+    left:0px;
+    top:0px
+
+}
+.nav-item{
+    margin-top:10px;
+}
+.content{
+    padding-left:100px;
+    padding-top:400px;
+}
+.content p{
+    width :400px;
+    padding-top: 20px;
+}
+.watch{
+    margin:30px;
+}
+.learn{
+    border: 1px solid purple;
+    border-radius: 50px;
+    margin-left:51px;
+}
+.vector{
+    position: absolute;
+    right:0px;
+}
+.phone{
+    position: relative;
+    font-size: 100px;
+}
+.phone img{
+    position: absolute;
+    right:0px;
+}
+.why {
+padding:300px;
+text-align: center;}
+h1{
+font-size:40px;
+}
+.lorem{
+    font-size: 10px;
+}
+.cards{
+    text-align: center;
+}
+.services{
+    text-align: center;
+    font-size: 40px;
+    color: purple;
+}
+.part{
+    width:200px;
+}
+.part h3{
+    color: rgb(235, 29, 139);
+}
+.srbtn{
+    color: white;
+    background: linear-gradient(45deg, rgb(235, 29, 139), purple);
+    border-radius: 51px;
+    border:1px solid palevioletred;
+    box-shadow: 0 3px 10px rgb(235, 29, 139);
+}
+.download{
+    height:600px;
+    
+}
+.con{
+    position:relative;
+    left:50px;
+    top:200px;
+    font-size: 30px;
+
+}
+.con p{
+    font-size: 14px;
+width:400px
+}
+.con img{
+    margin-left: 100px;
+}
+.whyim{
+     text-align: center;
+   
+}
+.images{
+    text-align: center;
+    
+}
