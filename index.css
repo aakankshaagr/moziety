@@ -56,7 +56,7 @@ a{
     right:0px;
 }
 .why {
-padding:300px;
+padding:200px;
 text-align: center;}
 h1{
 font-size:40px;
@@ -74,12 +74,21 @@ font-size:40px;
 }
 .part{
     width:250px;
+    padding:20px;
+    
+}
+
+.adjust{
+    display: flex;
+    flex-direction: row;
+    padding:10px;
 }
 .vec{
     position:fixed;
     left:300px;
 }
-.part h3{
+.adjust h3{
+    padding-left: 10px;
     color: rgb(235, 29, 139);
 }
 .srbtn{
@@ -88,6 +97,7 @@ font-size:40px;
     border-radius: 51px;
     border:1px solid palevioletred;
     box-shadow: 0 3px 10px rgb(235, 29, 139);
+    margin-left: 58px;
 }
 .download{
     height:600px;
@@ -106,6 +116,10 @@ width:400px
 }
 .con img{
     margin-left: 100px;
+}
+.container{
+   width: 100%;
+    justify-content: center;
 }
 .whyim{
      text-align: center;
